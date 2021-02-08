@@ -1,0 +1,129 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar{
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 1em;
+}
+.nav-link.active{
+    border-top: 1px #000 solid;
+    border-bottom: 1px #000 solid;
+}
+.text .h2{
+    font-size: 64px;
+    color: #bdbdbd;
+}
+.text .h1{
+    font-size: 64px;
+}
+
+main h3{
+    color: #bdbdbd;
+    padding-top: 20px;
+    font-size: 64px;
+    font-weight: 300;
+}
+#btn-discover{
+    position: absolute;
+    bottom: 7%;
+    left: 44%;
+}
+ .h-number{
+    font-size: 200px;
+    color: #bdbdbd;
+    font-weight: bold;
+}
+.about-span{
+    padding-bottom: 10px;
+}
+.goal-div{
+    position: relative;
+}
+.goal-span{
+    position: absolute;
+    padding-top: 75px;
+    padding-left: 5px;
+}
+.project-img{
+    margin-bottom: 15px;
+}
+.centered{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    color: #fff;
+    font-size: 64px;
+    font-weight: 700;
+    
+}
+.project-img1{
+    filter: brightness(30%);
+    filter: blur(30%);
+
+}
+.btn-project{
+    position: absolute;
+    bottom: 20%;
+    left: 10%;
+    
+}
+
+i .arrow {
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+i .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+.form-control{
+    margin-bottom: 10px;
+}
+#Message{
+    padding-bottom: 9em;
+}
+main, h3, p{
+    color: #333;
+}
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+  
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+  
+  .left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+  }
+  .img-desc{
+
+  }
+  .pg-count{
+    letter-spacing: .5em;
+    font-weight: 400;
+    margin-right: 2em;
+  }
+  .btn-left{
+    margin-right: 10px;
+  }
+  .img-project-name{
+    font-size: 40px;
+    color: #bdbdbd;
+    font-weight: 400;
+    
+  }
+  .project-desc{
+      right: 1em;
+      width: 45%;
+  }
+  

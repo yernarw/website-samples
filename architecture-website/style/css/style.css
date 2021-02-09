@@ -86,7 +86,7 @@ i .right {
 #Message{
     padding-bottom: 9em;
 }
-main, h3, p{
+main, h3, p {
     color: #333;
 }
 .arrow {
@@ -105,25 +105,27 @@ main, h3, p{
     transform: rotate(135deg);
     -webkit-transform: rotate(135deg);
   }
-  .img-desc{
-
-  }
-  .pg-count{
+  .pg-count {
     letter-spacing: .5em;
     font-weight: 400;
     margin-right: 2em;
   }
-  .btn-left{
+  .btn-left {
     margin-right: 10px;
   }
-  .img-project-name{
+  .img-project-name {
     font-size: 40px;
     color: #bdbdbd;
     font-weight: 400;
     
   }
-  .project-desc{
+  .project-desc {
       right: 1em;
       width: 45%;
   }
-  
+  #map {
+    height: 300px;
+    /* The height is 400 pixels */
+    width: 50%;
+    /* The width is the width of the web page */
+  }
